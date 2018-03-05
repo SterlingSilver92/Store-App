@@ -1,1 +1,7 @@
-### Setup
+Setup
+  Item Actions
+    Do command, the command to run when the item is bought
+    Undo command, the command to run to take away the purchased item
+    
+    
+Cases:
